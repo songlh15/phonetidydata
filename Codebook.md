@@ -28,7 +28,7 @@ Since this project request to calculate the mean of the measurements, 'average' 
 *7. 'mean_freq'(mean frequency) is present when that measurements existed in the orignal dataset
 
 
-The followings are variable in the dataset by variables order. All variables(except 'subjectid' and 'activity') are mean value from each measurement by each subjectid and each activity, 
+The followings are variables in the dataset by variables order. All variables(except 'subjectid' and 'activity') are mean value from each measurement by each subjectid and each activity, 
 they are numeric can be used for further analysis. The variable names for measurements are self-descriptive so no detail explanation provided here. 
 
 
